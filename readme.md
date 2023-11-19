@@ -29,3 +29,6 @@ cors cross origin data share lai handel garna, cookie-parser for storing data se
 install 
 npm i cookie-parser cors & import in app.js
 app.use(cors())
+
+utils/asyncHandler middleware that handles async activity (req,res,next): allows not to repete async in all 
+utils/ApiError middleware : standardized formation of responding erros occor in api,(error auda k k send garne)
