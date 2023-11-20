@@ -32,3 +32,9 @@ app.use(cors())
 
 utils/asyncHandler middleware that handles async activity (req,res,next): allows not to repete async in all 
 utils/ApiError middleware : standardized formation of responding erros occor in api,(error auda k k send garne)
+
+now starting to make userModel & videoModel
+npm i mongoose-aggregate-paginate-v2
+then import in videoModel
+npm i bcrypt jsonwebtoken
+then import in userModel
