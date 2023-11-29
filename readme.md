@@ -38,3 +38,5 @@ npm i mongoose-aggregate-paginate-v2
 then import in videoModel
 npm i bcrypt jsonwebtoken
 then import in userModel
+
+laptop changed trying to set git env form new pc
